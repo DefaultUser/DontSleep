@@ -1,0 +1,26 @@
+Don't Sleep
+
+Don't Sleep is an opensource program, that let's you diable the 
+Screensaver (and the Monitor's energy saving functions) via Tray Icon.
+It can also be configured to disable the Screensaver automatically when
+certain applications are running.
+
+Disabling the Screensaver is done by calling "xset". Some 3rd party
+screensavers will not work.
+
+Note: Only tested on Xubuntu 14.04
+
+Dependencies
+============
+python
+pyQt4
+python-psutil
+x11-xserver-utils (xset)
+
+License
+=======
+This program is distributed under the GNU GPL Version 3.
+For the full text, refer to the file "LICENSE"
+
+Sebastian Schmidt
+schro.sb@gmail.com
