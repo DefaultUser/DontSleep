@@ -1,12 +1,15 @@
 Don't Sleep
 
-Don't Sleep is an opensource program, that let's you diable the 
+Don't Sleep is an opensource program, that let's you disable the 
 Screensaver (and the Monitor's energy saving functions) via Tray Icon.
 It can also be configured to disable the Screensaver automatically when
 certain applications are running.
 
 Disabling the Screensaver is done by calling "xset". Some 3rd party
 screensavers will not work.
+
+This program was inspired by "Caffeine"
+(https://launchpad.net/~caffeine-developers/+archive/ubuntu/ppa)
 
 Note: Only tested on Xubuntu 14.04
 
